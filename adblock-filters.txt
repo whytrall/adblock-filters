@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 0.1
 ! Title: trall's custom adblock filters
-! Last modified: 13 Apr 2018 0:22
+! Last modified: 13 Apr 2018 0:28
 ! Expires: 2 days
 
 vk.com##._ads_promoted_post_data_w
@@ -12,12 +12,18 @@ vk.com##.ads_ads_news_wrap
 
 ! sakhalin stuff
 ||a.sakh.com
-sakhalin.info##.banner
 sakh.com##.banner
+sakh.com###promo-popup
+
 sakh.tv##a[href*="/promo/out/banner/"]
 sakh.tv##a[href="/pro/"]
+
 citysakh.ru##.banner
-sakh.com###promo-popup
+
 sakhalin.info###promo-popup
+sakhalin.info##.banner
 sakhalin.info##.picture-of-the-day
+sakhalin.info#@#.footer-disclaimer
+
+forum-beta.sakh.com##.telegram-widget
 
