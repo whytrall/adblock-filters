@@ -29,3 +29,5 @@ forum-beta.sakh.com##.telegram-widget
 
 ! awful reddit redesign button
 www.reddit.com##.redesign-beta-optin
+
+tjournal.ru##.stratum_tinkoff
