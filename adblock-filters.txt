@@ -6,6 +6,7 @@
 
 vk.com##._ads_promoted_post_data_w
 vk.com##.ads_ads_news_wrap
+vk.com###friends_req_block
 
 ! fake ask.fm
 ||askfm.im
