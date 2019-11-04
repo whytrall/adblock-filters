@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Version: 0.1
 ! Title: trall's custom adblock filters
-! Last modified: 13 Apr 2018 0:28
-! Expires: 2 days
+! Last modified: 4 Nov 2019 14:20
+! Expires: 14 days
 
 vk.com##._ads_promoted_post_data_w
 vk.com##.ads_ads_news_wrap
@@ -32,4 +32,9 @@ forum-beta.sakh.com##.telegram-widget
 *.reddit.com##.redesign-beta-optin
 reddit.com##.redesign-beta-optin
 
-tjournal.ru##.stratum_tinkoff
+studopedia.su###popup
+studopedia.su###opaco
+
+! Yeah. Because why not.
+*.pornhub.com###age-verification-wrapper
+*.pornhub.com###age-verification-container
